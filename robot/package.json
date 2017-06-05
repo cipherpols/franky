@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "phantomjs": "*",
+    "casperjs": "*",
+  }
+}
